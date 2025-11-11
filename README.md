@@ -1,7 +1,7 @@
 # Retail Sales Tableau Dashboard
 ## Project Overview
 
-This project visualizes retail sales performance across multiple stores and product categories using Tableau.
+This project visualizes retail sales performance using sampled M5 Accuracy dataset across multiple stores and product categories using Tableau.
 The goal is to explore how sales vary over time, stores, departments, and events, revealing hidden insights that can help optimize operations, inventory, and promotional strategies.
 
 The dashboards starts with a big-picture overview, diving into store-level performance, and finally uncovering seasonal and event-driven patterns that shape retail behavior.
@@ -43,15 +43,15 @@ The Weekly Sales Trend further confirms strong demand on Saturdays and Sundays, 
 Together, these insights highlight actionable opportunities — such as scheduling promotions during weekends and stocking high-demand categories in peak months — to maximize profitability.
 
 ### Key Takeaways
-CA1 Store remains the overall leader, driven by exceptional food department sales.
-TX1 Store shows promising year-over-year growth, making it a potential target for expansion.
-October & July are peak months, while Superbowl, Easter, and Thanksgiving significantly influence buyer activity.
-Weekends drive nearly 45% higher sales, making them key periods for promotional planning.
+- **CA1** Store remains the overall leader, driven by exceptional food department sales.
+- **TX1** Store shows promising year-over-year growth, making it a **potential target for expansion**.
+- **October & July** are peak months, while **Superbowl, Easter, and Thanksgiving** significantly influence buyer activity.
+- **Weekends** drive nearly **45% higher sales**, making them key periods for promotional planning.
 
 ### Tools Used
-Tableau – For interactive visual analytics and storytelling
-Excel / CSV Data Source – Retail sales dataset used for visualization
-GitHub – For documentation and project presentation
+- Tableau – For interactive visual analytics and storytelling
+- Excel / CSV Data Source – Retail sales dataset used for visualization
+- GitHub – For documentation and project presentation
 
 ## Conclusion
 
